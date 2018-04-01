@@ -1,0 +1,27 @@
+body {
+  background: white;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+h1 {
+  font-size: 1.5em;
+  color: #1760C6;
+}
+
+.center {
+  text-align: center;
+}
+
+.parrafos {
+  width: 600px;
+}
+
+.parrafos > p {
+  margin-top: 30px;
+}
+
+.big-letter {
+  font-size: 4em;
+  margin: 5px;
+}
