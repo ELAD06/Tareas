@@ -1,0 +1,11 @@
+.borde {
+  width: 1228px;
+  height: 500px;
+  border: 2px solid black;
+  padding: 30px;
+  margin: 20px;
+}
+
+h1 {
+  margin: 20px;
+}
